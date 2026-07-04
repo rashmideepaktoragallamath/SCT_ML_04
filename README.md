@@ -14,7 +14,7 @@ The application allows users to upload a hand gesture image and predicts the cor
 
 ## 🎥 Live Demo
 
-🔗 https://your-streamlit-app.streamlit.app
+🔗 [https://your-streamlit-app.streamlit.app](https://sctml04-vnbtg4cjornrcjh3yapyjd.streamlit.app/)
 
 ---
 
